@@ -1,7 +1,7 @@
 /* *
- * OOPS Banner App UC1
+ * OOPS Banner App UC3
  * @author jigmeepaotamang
- * @version 4.0
+ * @version 3.0
  * */
 
 public class OOPSBannerApp {
